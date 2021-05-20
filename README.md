@@ -70,6 +70,7 @@ Currently, aim is to become a globally competent individual with **programming s
 <br>
 
 <div align="center">
+ <br />
 
 <h2>
 Connect with me<img src="Assets/Handshake.gif" height="32px">
