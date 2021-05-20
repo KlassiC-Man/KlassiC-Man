@@ -44,7 +44,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KlassiC-Man&show_icons=true" alt="tusharnankani" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KlassiC-Man&show_icons=true" alt="KlassiC-Man" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassiC-Man&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/KlassiC-Man?tab=repositories)
 
