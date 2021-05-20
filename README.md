@@ -23,6 +23,8 @@
 
 -   📫 How to reach me: [Discord - printf("Hello World!");#5100](https://www.discord.com/app/), <a href="mailto:parthglt@gmail.com">Email</a> or [here](https://github.com/KlassiC-Man).
 
+<p align="center"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></p>
+
 ### About Me
 
 I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**,  **Statistics** and **Machine Learning**. I aim to be an **Open Source contributor**.
