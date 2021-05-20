@@ -8,28 +8,24 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p>
-
--   🤗 Read my latest _Medium Blog Post_ - **[An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)**
    
--   🔭 I'm currently working on my **Competitive Coding Skills**.
+-   🔭 I'm currently working on my **Web-Dev Skills**.
 
--   🌱 I'm currently learning _React.js_ and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
+-   🌱 I'm currently learning _React.js_ and how to build cross platform apps with _Electron.js_
    
 -   👯 I'm looking to collaborate on **Open Sourced** Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
    
--   🤔 I'm looking for help with _Machine Learning._
+-   🤔 I'm looking for help with _Data Science_
 
--   💬 Ask me about **anything**, **anytime**!
+-   💬 Ask me about Python or Web-Dev!
 
--   ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+-   ⚡ Fun fact: C is the mother of programming languages!.
 
--   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/), <a href="mailto:tusharnankani3@gmail.com">Email</a> or [here](https://github.com/tusharnankani/tusharnankani/issues/new).
-
-<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
+-   📫 How to reach me: [Discord - printf("Hello World!");#5100](https://www.discord.com/app/), <a href="mailto:parthglt@gmail.com">Email</a> or [here](https://github.com/KlassiC-Man).
 
 ### About Me
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Open Source contributor**.
+I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**,  **Statistics** and **Machine Learning**. I aim to be an **Open Source contributor**.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
@@ -39,7 +35,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/tusharnankani" alt="Github Metrics">
+<img src="https://metrics.lecoq.io/KlassiC-Man" alt="Github Metrics">
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats"> -->
 
