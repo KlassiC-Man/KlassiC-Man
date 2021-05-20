@@ -1,6 +1,5 @@
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
-
-<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> 
+ <img src="https://github.com/KlassiC-Man/KlassiC-Man/assets/hello.gif" align="center">
  
  <br > Welcome to my GitHub! 🤗</h1>
 
