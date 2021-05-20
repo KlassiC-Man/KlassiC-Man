@@ -44,20 +44,20 @@ Currently, aim is to become a globally competent individual with **programming s
 
 </p>
 
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KlassiC-Man&show_icons=true" alt="tusharnankani" />
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassiC-Man&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/KlassiC-Man?tab=repositories)
 
-<!--
+
 ## Some Of My Projects
 <p align="center">
-<a href="https://github.com/tusharnankani/TSECHackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=TSECHackathon" />
+<a href="https://github.com/KlassiC-Man/DisBot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=DisBot" />
 </a>
-<a href="https://github.com/tusharnankani/AnalogClock">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=AnalogClock"/>
+<a href="https://github.com/KlassiC-Man/Discord.py-Ticketing">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=Discord.py-Ticketing"/>
 </a>
-<a href="https://github.com/tusharnankani/ToDoList">
+<!--<a href="https://github.com/tusharnankani/ToDoList">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
 </a>
 <a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
@@ -65,6 +65,7 @@ Currently, aim is to become a globally competent individual with **programming s
 </a>
 </p>
 -->
+
 
 <br>
 
