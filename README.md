@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
- <img src="https://github.com/KlassiC-Man/KlassiC-Man/assets/hello.gif" align="center">
+ <p align="center"><img src="Assets/hello.gif"></p>
  
  <br > Welcome to my GitHub! 🤗</h1>
 
