@@ -72,9 +72,9 @@ Currently, aim is to become a globally competent individual with **programming s
 <div align="center">
  <br />
 
-<h2>
+<h1>
 Connect with me<img src="Assets/Handshake.gif" height="32px">
-</h2>
+</h1>
 
 | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/KlassiC-Man) [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:parthglt@gmail.com@gmail.com) |
 
