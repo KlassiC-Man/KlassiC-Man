@@ -20,11 +20,11 @@
 
 -   💬 Ask me about Python or Web-Dev!
 
--   ⚡ Fun fact: C is the mother of programming languages!.
+-   ⚡ Fun fact: You dont need maths in programming **TRUST ME!**
 
 -   📫 How to reach me: [Discord - printf("Hello World!");#5100](https://www.discord.com/app/), <a href="mailto:parthglt@gmail.com">Email</a> or [here](https://github.com/KlassiC-Man).
 
-<p align="center"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></p>
+<!--<p align="center"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></p>-->
 
 ### About Me
 
