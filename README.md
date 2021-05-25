@@ -58,11 +58,10 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/KlassiC-Man/React-JS-TicTacToe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=React-JS-TicTacToe"/>
 </a>
-<!--<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
+<a href="https://github.com/KlassiC-Man/Three-JS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=Three-JS"/>
 </a>
 </p>
--->
 
 
 <div align="center">
