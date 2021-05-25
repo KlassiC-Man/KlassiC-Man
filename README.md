@@ -55,10 +55,10 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/KlassiC-Man/Discord.py-Ticketing">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=Discord.py-Ticketing"/>
 </a>
-<!--<a href="https://github.com/tusharnankani/ToDoList">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
+<a href="https://github.com/KlassiC-Man/React-JS-TicTacToe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=React-JS-TicTacToe"/>
 </a>
-<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
+<!--<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
 </a>
 </p>
