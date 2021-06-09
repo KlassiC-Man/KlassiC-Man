@@ -52,8 +52,8 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/KlassiC-Man/DisBot">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=DisBot" />
 </a>
-<a href="https://github.com/KlassiC-Man/React-JS-TicTacToe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=React-JS-TicTacToe"/>
+<a href="https://github.com/KlassiC-Man/native-chatApp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=native-chatApp"/>
 </a>
 </p>
 <br>
