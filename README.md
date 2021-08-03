@@ -35,7 +35,7 @@ Currently, aim is to become a globally competent individual with **programming s
 <p align="center">
 
 <img src="https://metrics.lecoq.io/KlassiC-Man" alt="Github Metrics">
-
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=klassiC-Man" alt="Github Streak Stats"> 
 
 </p>
