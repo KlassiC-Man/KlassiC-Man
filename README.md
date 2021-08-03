@@ -10,7 +10,7 @@
    
 -   🔭 I'm currently working on my **Web-Dev Skills**.
 
--   🌱 I'm currently learning _React.js_ and how to build cross platform apps with _Electron.js_
+-   🌱 I'm currently learning _React.js_ and how to build rest apis and web servers with _Express.js_
    
 -   👯 I'm looking to collaborate on **Open Sourced** Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
    
