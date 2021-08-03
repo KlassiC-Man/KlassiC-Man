@@ -32,17 +32,15 @@ I am working on my **Data Structures** and **Algorithms**. My interest lies in *
 
 Currently, aim is to become a globally competent individual with **programming skills**.
 
-<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
-
 <p align="center">
 
 <img src="https://metrics.lecoq.io/KlassiC-Man" alt="Github Metrics">
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats"> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=klassiC-Man" alt="Github Streak Stats"> 
 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KlassiC-Man&show_icons=true" alt="KlassiC-Man" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=klassiC-Man&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="KlassiC-Man" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassiC-Man&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/KlassiC-Man?tab=repositories)
 
