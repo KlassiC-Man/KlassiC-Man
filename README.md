@@ -26,6 +26,8 @@
 
 ### About Me
 
+[My Portfolio](https://suspicious-lewin-d246f6.netlify.app/)
+
 I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**,  **Statistics** and **Machine Learning**. I aim to be an **Open Source contributor**.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
