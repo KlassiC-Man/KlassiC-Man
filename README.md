@@ -52,10 +52,10 @@ Currently, aim is to become a globally competent individual with **programming s
 ## Some Of My Projects
 <p align="center">
 <a href="https://github.com/KlassiC-Man/mern-stack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=DisBot" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=mern-stack" />
 </a>
 <a href="https://github.com/KlassiC-Man/social-media-native">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=native-chatApp"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=social-media-native"/>
 </a>
 </p>
 <br>
