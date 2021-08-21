@@ -6,7 +6,7 @@
  <p align="center"> <h1>Welcome to my GitHub! 🤗</h1></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KlassiC-Man" alt="KlassiC-Man"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nothingButSyntaxError" alt="nothingButSyntaxError"/> </p>
    
 -   🔭 I'm currently working on my **Web-Dev Skills**.
 
@@ -20,7 +20,7 @@
 
 -   ⚡ Fun fact: You dont need maths in programming **TRUST ME!**
 
--   📫 How to reach me: [Discord - nothingButSyntaxError#5100](https://www.discord.com/app/), <a href="mailto:parthglt@gmail.com">Email</a> or [here](https://github.com/KlassiC-Man).
+-   📫 How to reach me: [Discord - nothingButSyntaxError#5100](https://www.discord.com/app/), <a href="mailto:parthglt@gmail.com">Email</a> or [here](https://github.com/nothingButSyntaxError).
 
 <p align="center"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></p>
 
@@ -36,26 +36,26 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/KlassiC-Man" alt="Github Metrics">
+<img src="https://metrics.lecoq.io/nothingButSyntaxError" alt="Github Metrics">
  <br />
 <img src="Assets/coder.gif">
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=klassiC-Man" alt="Github Streak Stats"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nothingButSyntaxError" alt="Github Streak Stats"> 
 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=klassiC-Man&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="KlassiC-Man" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nothingButSyntaxError&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="KlassiC-Man" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassiC-Man&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/KlassiC-Man?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothingButSyntaxError&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/nothingButSyntaxError?tab=repositories)
 
 
 ## Some Of My Projects
 <p align="center">
-<a href="https://github.com/KlassiC-Man/mern-stack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=mern-stack" />
+<a href="https://github.com/nothingButSyntaxError/mern-stack">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nothingButSyntaxError&repo=mern-stack" />
 </a>
-<a href="https://github.com/KlassiC-Man/social-media-native">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KlassiC-Man&repo=social-media-native"/>
+<a href="https://github.com/nothingButSyntaxError/social-media-native">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nothingButSyntaxError&repo=social-media-native"/>
 </a>
 </p>
 <br>
