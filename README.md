@@ -6,7 +6,7 @@
  <p align="center"> <h1>Welcome to my GitHub! 🤗</h1></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nothingButSyntaxError" alt="nothingButSyntaxError"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nothingButSyntaxError&style=flat-square" alt="nothingButSyntaxError"/> </p>
    
 -   🔭 I'm currently working on my **Web-Dev Skills**.
 
