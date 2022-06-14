@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nothingbutsyntaxerror" alt="nothingbutsyntaxerror" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/programmer010" target="blank"><img src="https://img.shields.io/twitter/follow/programmer010?logo=twitter&style=for-the-badge" alt="programmer010" /></a> </p>
-
 - 🌱 I’m currently learning **Robotics, Raspberry Pi**
 
 - 💬 Ask me about **React, React Native, Javascript, Python**
